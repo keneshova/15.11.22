@@ -21,5 +21,12 @@ img {
 
 a {
     text-decoration: none;
+    color: black;
+    margin-top: 100px;
+    border: 2px dashed red;
+    background-color: rgb(247, 199, 183);
+}
+
+li {
     color: blue;
 }
